@@ -1,7 +1,5 @@
 # DocXense : AI Study Helper
 
-![banner](assets/banner.png)
-
 ## ```Description 📝 :``` 
 <b><span style="color:blue;">Doc</span><span style="color:orange;">X</span><span style="color:red;">ense</span></b>
 is a versatile document analysis tool powered by advanced natural language processing. It offers two key functionalities: 
